@@ -4,7 +4,7 @@
 
 - 🌱 Developer in Ausbildung
 - 🐈 Dauerhaft am Pair-Programmen mit meinen Katzen
-- 🎙️Partner @ Twitch
+- 🎙️Partner @ Twitch (nur Gaming, kein Coding-Content)
 - 🎮 Gamer (Cozy Games, Horror-Multiplayer, Farming-Sims)
   -   Grand Theft Auto V
   -   Valorant (Noob-Elo)
