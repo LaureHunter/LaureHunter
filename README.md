@@ -1,7 +1,9 @@
 # 👋 Hi, ich bin Laure!
 
 - 🌱 Developer in Ausbildung
-<details><summary>🎮 Games</summary>
+- 🎙️Partner @ Twitch
+
+- <details><summary>🎮 Favorite Games</summary>
   - Grand Theft Auto V
   - Horror-Multiplayer
   - Valorant
@@ -12,8 +14,7 @@
 - Cozy-Games
 - Horror-Multiplayer
 </details>
-
-- 🎙️Partner @ Twitch
+  
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/laurahunter)
 <!---
 LaureHunter/LaureHunter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
