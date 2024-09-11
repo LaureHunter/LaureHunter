@@ -3,12 +3,12 @@
 - 🌱 Developer in Ausbildung
 - 🎙️Partner @ Twitch
 
-- <details><summary>🎮 Favorite Games</summary>
-  - Grand Theft Auto V
-  - Horror-Multiplayer
-  - Valorant
-  - Teamfight Tactics
-  - Rainbow Six Siege
+<details><summary>🎮 Favorite Games</summary>
+- Grand Theft Auto V
+- Horror-Multiplayer
+- Valorant
+- Teamfight Tactics
+- Rainbow Six Siege
   
 - Farming-Sims
 - Cozy-Games
