@@ -3,6 +3,7 @@
 <h3 align="left">Kurz zu mir:</h3>
 
 - 🌱 Developer in Ausbildung
+- 🐈 Dauerhaft am Pair-Programmen mit meinen Katzen
 - 🎙️Partner @ Twitch
 - 🎮 Gamer (Cozy Games, Horror-Multiplayer, Farming-Sims)
   -   Grand Theft Auto V
