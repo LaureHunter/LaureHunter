@@ -1,20 +1,16 @@
 # 👋 Hi, ich bin Laure!
 
+<h3 align="left">Kurz zu mir:</h3>
+
 - 🌱 Developer in Ausbildung
 - 🎙️Partner @ Twitch
+- 🎮 Gamer (Cozy Games, Horror-Multiplayer, Farming-Sims)
+  -   Grand Theft Auto V
+  -   Valorant (Noob-Elo)
+  -   Dead by Daylight
 
-<details><summary>🎮 Favorite Games</summary>
+<h3 align="left">Languages und Tools:</h3>
 
-- Grand Theft Auto V
-- Horror-Multiplayer
-- Valorant
-- Teamfight Tactics
-- Rainbow Six Siege
-  
-- Farming-Sims
-- Cozy-Games
-- Horror-Multiplayer
-</details>
   
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/laurahunter)
 <!---
