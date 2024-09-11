@@ -1,8 +1,16 @@
 # 👋 Hi, ich bin Laure!
 
 - 🌱 Aktuell lerne ich Java Springboot
-<details><summary>🎮 Social Media</summary>
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/laurahunter)
+<details><summary>🎮 Games</summary>
+- Grand Theft Auto V
+- Horror-Multiplayer
+- Valorant
+- Teamfight Tactics
+- Rainbow Six Siege
+  
+- Farming-Sims
+- Cozy-Games
+- Horror-Multiplayer
 </details>
 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/laurahunter)
