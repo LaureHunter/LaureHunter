@@ -1,6 +1,5 @@
-# Hi, ich bin Laure!
+# 👋 Hi, ich bin Laure!
 
-- 👋 Ich bin @LaureHunter / Laure
 - 🌱 Aktuell lerne ich Java Springboot
 - 🎮 Social media: [Twitch](twitch.tv/laurahunter)
 
