@@ -1,6 +1,6 @@
 # 👋 Hi, ich bin Laure!
 
-- 🌱 Aktuell lerne ich Java Springboot
+- 🌱 Developer in Ausbildung
 <details><summary>🎮 Games</summary>
   - Grand Theft Auto V
   - Horror-Multiplayer
@@ -13,6 +13,7 @@
 - Horror-Multiplayer
 </details>
 
+- 🎙️Partner @ Twitch
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/laurahunter)
 <!---
 LaureHunter/LaureHunter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
