@@ -2,7 +2,7 @@
 
 <h3 align="left">Kurz zu mir:</h3>
 
-- 🌱 Developer in Ausbildung | Anwendungsentwicklung
+- 🌱 Developer in Ausbildung | FI Anwendungsentwicklung
 - 🐈 Dauerhaft am Pair-Programmen mit meinen Katzen
 - 🎙️Partner @ Twitch (nur Gaming, kein Coding-Content)
 - 🎮 Gamer (Cozy Games, Horror-Multiplayer, Farming-Sims)
