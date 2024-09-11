@@ -1,3 +1,6 @@
+# Hi, ich bin Laure!
+# Willkommen auf meinem Profil!
+
 - 👋 Ich bin @LaureHunter / Laure
 - 🌱 Aktuell lerne ich Java Springboot
 - 🎮 Social media: [Twitch](twitch.tv/laurahunter)
