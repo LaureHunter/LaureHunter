@@ -4,6 +4,7 @@
 - 🎙️Partner @ Twitch
 
 <details><summary>🎮 Favorite Games</summary>
+
 - Grand Theft Auto V
 - Horror-Multiplayer
 - Valorant
