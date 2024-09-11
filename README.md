@@ -2,11 +2,11 @@
 
 - 🌱 Aktuell lerne ich Java Springboot
 <details><summary>🎮 Games</summary>
-- Grand Theft Auto V
-- Horror-Multiplayer
-- Valorant
-- Teamfight Tactics
-- Rainbow Six Siege
+  - Grand Theft Auto V
+  - Horror-Multiplayer
+  - Valorant
+  - Teamfight Tactics
+  - Rainbow Six Siege
   
 - Farming-Sims
 - Cozy-Games
