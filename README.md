@@ -10,8 +10,10 @@
   -   Dead by Daylight
 
 <h3 align="left">Languages und Tools:</h3>
+WiP
 
-  
+<h3 align="left">Social Media:</h3>
+
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/laurahunter)
 <!---
 LaureHunter/LaureHunter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
