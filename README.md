@@ -2,8 +2,8 @@
 
 <h3 align="left">Kurz zu mir:</h3>
 
-- 🌱 Developer in Ausbildung | FI Anwendungsentwicklung
-- 🐈 Dauerhaft am Pair-Programmen mit meinen Katzen
+- 🌱 Developer in Ausbildung
+- 🐈 Pair-/Mob-Programming mit meinen Katzen
 - 🎙️Partner @ Twitch (nur Gaming, kein Coding-Content)
 - 🎮 Gamer (Cozy Games, Horror-Multiplayer, Farming-Sims)
   -   Grand Theft Auto V
