@@ -13,6 +13,8 @@
 <h3 align="left">Languages und Tools:</h3>
 WiP
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LaureHunter)](https://github.com/LaureHunter/github-readme-stats)
+
 <h3 align="left">Social Media:</h3>
 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/laurahunter)
