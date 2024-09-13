@@ -13,7 +13,7 @@
 <h3 align="left">Languages und Tools:</h3>
 WiP
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaureHunter&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaureHunter&theme=tokyonight)
 
 <h3 align="left">Social Media:</h3>
 
