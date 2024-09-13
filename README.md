@@ -13,6 +13,8 @@
 <h3 align="left">Languages und Tools:</h3>
 WiP
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaureHunter)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Social Media:</h3>
 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/laurahunter)
