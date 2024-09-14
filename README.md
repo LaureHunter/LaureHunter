@@ -11,6 +11,7 @@
   -   Dead by Daylight
 
 <h3 align="left">Languages und Tools:</h3>
+<p align="left"> 
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Amazon AWS" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="CSS" width="40" height="40"/>
@@ -28,7 +29,7 @@
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Python" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vuejs" width="40" height="40"/>
-
+</a>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaureHunter&theme=tokyonight)
