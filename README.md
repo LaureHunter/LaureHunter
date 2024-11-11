@@ -7,8 +7,9 @@
 - 🎙️Partner @ Twitch (nur Gaming, kein Coding-Content)
 - 🎮 Gamer (Cozy Games, Horror-Multiplayer, Farming-Sims)
   -   Grand Theft Auto V
-  -   Valorant (Noob-Elo)
+  -   Red Dead Redemption 2
   -   Dead by Daylight
+  -   Valorant
 
 <h3 align="left">Languages und Tools:</h3>
 <p align="left"> 
