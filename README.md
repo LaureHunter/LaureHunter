@@ -32,9 +32,6 @@
 <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vuejs" width="40" height="40"/>
 </a>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaureHunter&theme=tokyonight)
-
 <h3 align="left">Social Media:</h3>
 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/laurahunter)
